@@ -1,4 +1,4 @@
-//1.2.1.0
+//1.3.0.1
 const forceBrowserDefault = function(e){
 	e.stopImmediatePropagation();
 	return true;
