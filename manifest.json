@@ -19,6 +19,6 @@
    "options_page": "options.html",
    "host_permissions": [ "https://nanext.alcnanext.jp/*" ],
    "short_name": "e-Learning KILLER",
-   "version": "1.3.0.0",
+   "version": "1.3.0.1",
    "homepage_url": "https://github.com/e-learning-killer"
 }
